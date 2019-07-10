@@ -5,11 +5,10 @@ Pod::Spec.new do |s|
 
   s.name         = "WalletPlugin-wk"
   s.version      = "1.0.0"
-  s.summary      = "wallet plugin"
+  s.summary      = "plugin"
 
 
-  s.description  = <<-DESC
-                   DESC
+  s.description  = "wallet plugin"
 
   s.homepage     = "https://github.com/Doggylin/WalletPlugin-wk"
 
